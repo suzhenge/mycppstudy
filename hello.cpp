@@ -1,3 +1,3 @@
 void main(){
-	cout<< "main\n";
+cout<< "main\n";
 }
