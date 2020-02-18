@@ -1,3 +1,4 @@
 void main(){
-  cout >>"hello world\n";
+ 	cout << "hello";
+	cout <<"hello world\n";
 }
